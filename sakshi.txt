@@ -1,11 +1,7 @@
 hi good morning 
 my name is sakshi
 
-<<<<<<< HEAD
-updated by temp branchhh
-=======
 
 
 this is my example branch updates ----------- #1
 ddd
->>>>>>> example
